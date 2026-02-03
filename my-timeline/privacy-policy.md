@@ -1,8 +1,9 @@
 
 ---
 title: Privacy Policy
-layout: default
+permalink: /privacy-policy/   # optional, enforces clean URL
 ---
+
 
 # Privacy Policy
 
