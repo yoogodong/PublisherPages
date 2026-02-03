@@ -1,7 +1,7 @@
-
 ---
 title: Privacy Policy
-permalink: /privacy-policy/   # optional, enforces clean URL
+layout: page          # or 'default' if you have a _layouts/default.html
+permalink: /my-timeline/privacy-policy/
 ---
 
 
