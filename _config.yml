@@ -1,0 +1,4 @@
+title: Privacy Policy
+baseurl: ""                  # empty unless using subdirectory deployment
+markdown: kramdown
+theme: minima                # minimal default theme; alternatives available
