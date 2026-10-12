@@ -1,5 +1,5 @@
 title: Privacy Policy
 baseurl: ""                  # empty unless using subdirectory deployment
 markdown: kramdown
-theme: minima                # minimal default theme; alternatives available
+theme: jekyll-theme-minimal                # minimal default theme; alternatives available
 permalink: pretty   # enables /path/ style URLs
